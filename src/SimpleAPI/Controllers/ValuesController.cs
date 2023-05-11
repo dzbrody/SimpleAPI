@@ -6,6 +6,13 @@ namespace SimpleAPI.Controllers
     [Route("[controller]")]
     public class ValuesController : ControllerBase
     {
+        // GET api/values
+        [HttpGet]
+        public ActionResult<IEnumerable<string>> Get()
+        {
+            return new string[] { "Dot Net", "Play Book" };
+        }
+        // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
