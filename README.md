@@ -68,3 +68,8 @@ Pull requests that add a real domain, authentication, or a deployment stage shou
 API strategy, Azure API Management, and the diligence question "is this contract actually governed?" are a core part of my fractional CTO work.
 
 [Book a Fractional CTO call](https://ctorescues.com/contact/) · [LinkedIn](https://www.linkedin.com/in/danielbrody/) · [GitHub profile](https://github.com/dzbrody)
+
+
+---
+**CITO for Hire** — design-it · sell-it · build-it · implement-it
+[ctorescues.com](https://ctorescues.com) · [Facebook](https://www.facebook.com/people/CTORescues/100067231596849/) · [GitHub](https://github.com/dzbrody) · [LinkedIn](https://www.linkedin.com/in/danielbrody/)
